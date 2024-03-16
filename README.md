@@ -7,29 +7,22 @@ Let's jump in and explore how to add users in osTicket, empowering you to enhanc
 
 <p align="center">
 <img src="https://i.imgur.com/cLLbogu.png"/></p>
-Thru the Admin panel we'll add a "New Agent" which can be anyone you want to have access from employees, customers, vendors and more! From here we can assign our new "Agent" a department, access to other departments, teams and permissions. This panel also gives us the ability to restrict abilities, and force a password reset if needed. 
-  
-  
-  
-  
+Thru the Admin panel we'll add a "New Agent" which can be anyone you want to have access from employees, customers, vendors and more! From here we can assign our new "Agent" a department, access to other departments, teams and permissions. This panel also gives us the ability to restrict abilities, and force a password reset if needed. <br>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
 <img src="https://i.imgur.com/WfKjiEa.png"/></p>
 The admin panel also gives us the power to create, delete and manage departments.
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+<img src="https://i.imgur.com/611xJjj.png"/></p>
+We can also configure our [Service Level Agreements](https://github.com/Robertc30/SLAs) or "SLA"s here
 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-Its a work in progress bare with!
 
 <h2>Follow the journey on LinkedIn or Contact me directly</h2>
 
