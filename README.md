@@ -1,27 +1,35 @@
 # Adding Users
-Now it's time to start using osTicket! As you start managing your customer support interactions, adding users is key to organizing and streamlining communication. With osTicket, adding users is a breeze, allowing you to effectively handle inquiries, assign tasks, and deliver top-notch service.
-
-Here is quick overview, I'll guide you through the process of adding users in osTicket. By creating customer profiles and setting up roles and permissions, you'll be equipped to manage tickets efficiently and provide exceptional support experiences.
-
-Let's jump in and explore how to add users in osTicket, empowering you to enhance customer satisfaction and build strong relationships with your audience and employees.
+Welcome to the world of osTicket! As you embark on your journey of managing customer support interactions, mastering the art of adding users is pivotal for organizing and streamlining communication. With osTicket's intuitive interface, the process of adding users becomes seamless, empowering you to efficiently handle inquiries, delegate tasks, and deliver unparalleled service.
 
 <p align="center">
-<img src="https://i.imgur.com/cLLbogu.png"/></p>
-Thru the Admin panel we'll add a "New Agent" which can be anyone you want to have access from employees, customers, vendors and more! From here we can assign our new "Agent" a department, access to other departments, teams and permissions. This panel also gives us the ability to restrict abilities, and force a password reset if needed. <br>
+<img src="https://i.imgur.com/ftexYpe.png"/></p>
+Let's delve into the intricacies of adding users in osTicket. By meticulously crafting customer profiles and configuring roles and permissions, you'll gain the prowess to manage tickets with finesse, ensuring each support interaction is met with professionalism and expertise.
 <br>
 <br>
 <br>
 <br>
 <p align="center">
 <img src="https://i.imgur.com/WfKjiEa.png"/></p>
-The admin panel also gives us the power to create, delete and manage departments.
+Additionally, the admin panel bestows upon us the authority to forge, refine, and oversee departments—a fundamental pillar in the framework of osTicket. As you navigate through this realm, each click symbolizes the power to shape your support ecosystem, sculpting it into an epitome of efficiency and excellence.
 <br>
 <br>
 <br>
 <br>
 <p align="center">
 <img src="https://i.imgur.com/611xJjj.png"/></p>
-We can also configure our [Service Level Agreements](https://github.com/Robertc30/SLAs) or "SLA"s here
+<br>
+<br>
+<br>
+<br>
+
+And let's not forget about [Service Level Agreements](https://github.com/Robertc30/SLAs) or "SLA"s—the cornerstone of customer service excellence. Here, within osTicket's domain, you have the tools to configure SLAs to perfection, laying the groundwork for impeccable service standards and customer satisfaction.
+
+Join us as we embark on this odyssey of user management in osTicket, where every action propels us closer to the zenith of customer service excellence
+<br>
+<br>
+<br>
+<br>
+
 
 
 <h2>Follow the journey on LinkedIn or Contact me directly</h2>
